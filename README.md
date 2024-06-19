@@ -10,7 +10,7 @@ Sample Insights :
 
 •	The month of June records the biggest sales
 
-•	Hell Kitchen was the location with the biggest sales, aside from Astonia and Lower Mannhaten.
+•	Hell Kitchen was the location with the biggest sales, aside from Astonia and Lower Mannhatten.
 
 •	The top five products are hot chocolate, gourmet brewed coffee, brewed Black tea, brewed chai tea, and barista espresso. 
 
