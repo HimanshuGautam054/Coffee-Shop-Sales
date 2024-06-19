@@ -2,7 +2,7 @@
 Hello, GitHub community
 I am excited to share a new project on Coffee Shop Sales Analysis using MS Excel.
 
-In this project, I have completed: Data Modelling, Data Formatting, Data Cleaning, Data Processing, Data Analysis, Data Visualisation, Created Charts, Created Measures, Created Slicers, Created Reports, and a dashboard.
+In this project, I have completed: Data Modelling, Data Formatting, Data Cleaning, Data Processing, Data Analysis, Data Visualiszation, Created Charts, Created Measures, Created Slicers, Created Reports, and a dashboard.
 
 Sample Insights :
 
